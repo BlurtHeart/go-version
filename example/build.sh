@@ -1,7 +1,7 @@
 #当前版本号,每次更新服务时都必须更新版本号
 CurrentVersion=0.0.1
 
-Project=github.com/blurtheart/go-version
+Project=github.com/blurty/go-version
 
 Path=$Project
 GitCommit=$(git rev-parse --short HEAD || echo unsupported)

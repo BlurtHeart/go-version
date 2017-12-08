@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/blurtheart/go-version"
+	"github.com/blurty/go-version"
 )
 
 func main() {

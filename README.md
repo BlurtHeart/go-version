@@ -2,7 +2,7 @@
 
 ## 下载
 
-    go get github.com/blurtheart/go-version
+    go get github.com/blurty/go-version
 
 ### 使用
 
@@ -11,7 +11,7 @@
     import (
         "flag"
 
-        "github.com/blurtheart/go-version"
+        "github.com/blurty/go-version"
     )
 
     func main() {
